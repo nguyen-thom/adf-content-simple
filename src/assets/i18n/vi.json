@@ -1,0 +1,12 @@
+{
+  "APP": {
+    "INFO_DRAWER": {
+      "TITLE": "Chi Tiết",
+      "TABS": {
+          "PROPERTIES": "Properties",
+          "VERSIONS": "Bản",
+          "COMMENTS": "Ghi chú"
+      }
+    }
+  }
+}
